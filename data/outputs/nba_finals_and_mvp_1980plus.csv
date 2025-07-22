@@ -1,40 +1,40 @@
 index,Year,Western Champion,Eastern Champion,Result,NBA Champion,NBA Vice-Champion,Final Sweep ?,MVP Name,MVP Height (m),MVP Height (ft),MVP Position,MVP Team,MVP Nationality,MVP status,First_Name,Surname
-30,1980,Los Angeles Lakers,Philadelphia 76ers,4–2,Los Angeles Lakers,Philadelphia 76ers,False,K. Abdul-Jabbar,2.18,7.152231,Center,Los Angeles Lakers,US,Champion,K.,bdul-Jabbar
-31,1981,Houston Rockets,Boston Celtics,2–4,Boston Celtics,Houston Rockets,False,J. Erving,2.01,6.594488,Forward,Philadelphia 76ers,US,Not reached Final,J.,rving
-32,1982,Los Angeles Lakers,Philadelphia 76ers,4–2,Los Angeles Lakers,Philadelphia 76ers,False,M. Malone,2.08,6.824147,Center,Houston Rockets,US,Not reached Final,M.,alone
-33,1983,Los Angeles Lakers,Philadelphia 76ers,0–4,Philadelphia 76ers,Los Angeles Lakers,True,M. Malone,2.08,6.824147,Center,Philadelphia 76ers,US,Champion,M.,alone
-34,1984,Los Angeles Lakers,Boston Celtics,3–4,Boston Celtics,Los Angeles Lakers,False,L. Bird,2.06,6.75853,Forward,Boston Celtics,US,Champion,L.,ird
-35,1985,Los Angeles Lakers,Boston Celtics,4–2,Los Angeles Lakers,Boston Celtics,False,L. Bird,2.06,6.75853,Forward,Boston Celtics,US,Vice-Champion,L.,ird
-36,1986,Houston Rockets,Boston Celtics,2–4,Boston Celtics,Houston Rockets,False,L. Bird,2.06,6.75853,Forward,Boston Celtics,US,Champion,L.,ird
-37,1987,Los Angeles Lakers,Boston Celtics,4–2,Los Angeles Lakers,Boston Celtics,False,M. Johnson,2.06,6.75853,Guard,Los Angeles Lakers,US,Champion,M.,ohnson
-38,1988,Los Angeles Lakers,Detroit Pistons,4–3,Los Angeles Lakers,Detroit Pistons,False,M. Jordan,1.98,6.496063,Guard,Chicago Bulls,US,Not reached Final,M.,ordan
-39,1989,Los Angeles Lakers,Detroit Pistons,0–4,Detroit Pistons,Los Angeles Lakers,True,M. Johnson,2.06,6.75853,Guard,Los Angeles Lakers,US,Vice-Champion,M.,ohnson
-40,1990,Portland Trail Blazers,Detroit Pistons,1–4,Detroit Pistons,Portland Trail Blazers,False,M. Johnson,2.06,6.75853,Guard,Los Angeles Lakers,US,Not reached Final,M.,ohnson
-41,1991,Los Angeles Lakers,Chicago Bulls,1–4,Chicago Bulls,Los Angeles Lakers,False,M. Jordan,1.98,6.496063,Guard,Chicago Bulls,US,Champion,M.,ordan
-42,1992,Portland Trail Blazers,Chicago Bulls,2–4,Chicago Bulls,Portland Trail Blazers,False,M. Jordan,1.98,6.496063,Guard,Chicago Bulls,US,Champion,M.,ordan
-43,1993,Phoenix Suns,Chicago Bulls,2–4,Chicago Bulls,Phoenix Suns,False,C. Barkley,1.98,6.496063,Forward,Phoenix Suns,US,Vice-Champion,C.,arkley
-44,1994,Houston Rockets,New York Knicks,4–3,Houston Rockets,New York Knicks,False,H. Olajuwon,2.13,6.988189,Center,Houston Rockets,Nigeria,Champion,H.,lajuwon
-45,1995,Houston Rockets,Orlando Magic,4–0,Houston Rockets,Orlando Magic,True,D. Robinson,2.16,7.086614,Center,San Antonio Spurs,US,Not reached Final,D.,obinson
-46,1996,Seattle SuperSonics,Chicago Bulls,2–4,Chicago Bulls,Seattle SuperSonics,False,M. Jordan,1.98,6.496063,Guard,Chicago Bulls,US,Champion,M.,ordan
-47,1997,Utah Jazz,Chicago Bulls,2–4,Chicago Bulls,Utah Jazz,False,K. Malone,2.06,6.75853,Forward,Utah Jazz,US,Vice-Champion,K.,alone
-48,1998,Utah Jazz,Chicago Bulls,2–4,Chicago Bulls,Utah Jazz,False,M. Jordan,1.98,6.496063,Guard,Chicago Bulls,US,Champion,M.,ordan
-49,1999,San Antonio Spurs,New York Knicks,4–1,San Antonio Spurs,New York Knicks,False,K. Malone,2.06,6.75853,Forward,Utah Jazz,US,Not reached Final,K.,alone
-50,2000,Los Angeles Lakers,Indiana Pacers,4–2,Los Angeles Lakers,Indiana Pacers,False,S. O'Neal,2.16,7.086614,Center,Los Angeles Lakers,US,Champion,S.,'Neal
-51,2001,Los Angeles Lakers,Philadelphia 76ers,4–1,Los Angeles Lakers,Philadelphia 76ers,False,A. Iverson,1.83,6.003937,Guard,Philadelphia 76ers,US,Vice-Champion,A.,verson
-52,2002,Los Angeles Lakers,New Jersey Nets,4–0,Los Angeles Lakers,New Jersey Nets,True,T. Duncan,2.11,6.922572,Forward,San Antonio Spurs,US,Not reached Final,T.,uncan
-53,2003,San Antonio Spurs,New Jersey Nets,4–2,San Antonio Spurs,New Jersey Nets,False,T. Duncan,2.11,6.922572,Forward,San Antonio Spurs,US,Champion,T.,uncan
-54,2004,Los Angeles Lakers,Detroit Pistons,1–4,Detroit Pistons,Los Angeles Lakers,False,K. Garnett,2.11,6.922572,Forward,Minnesota Timberwolves,US,Not reached Final,K.,arnett
-55,2005,San Antonio Spurs,Detroit Pistons,4–3,San Antonio Spurs,Detroit Pistons,False,S. Nash,1.91,6.266404,Guard,Phoenix Suns,Canada,Not reached Final,S.,ash
-56,2006,Dallas Mavericks,Miami Heat,2–4,Miami Heat,Dallas Mavericks,False,S. Nash,1.91,6.266404,Guard,Phoenix Suns,Canada,Not reached Final,S.,ash
-57,2007,San Antonio Spurs,Cleveland Cavaliers,4–0,San Antonio Spurs,Cleveland Cavaliers,True,D. Nowitzki,2.13,6.988189,Forward,Dallas Mavericks,Germany,Not reached Final,D.,owitzki
-58,2008,Los Angeles Lakers,Boston Celtics,2–4,Boston Celtics,Los Angeles Lakers,False,K. Bryant,1.98,6.496063,Guard,Los Angeles Lakers,US,Vice-Champion,K.,ryant
-59,2009,Los Angeles Lakers,Orlando Magic,4–1,Los Angeles Lakers,Orlando Magic,False,L. James,2.03,6.660105,Forward,Cleveland Cavaliers,US,Not reached Final,L.,ames
-60,2010,Los Angeles Lakers,Boston Celtics,4–3,Los Angeles Lakers,Boston Celtics,False,L. James,2.03,6.660105,Forward,Cleveland Cavaliers,US,Not reached Final,L.,ames
-61,2011,Dallas Mavericks,Miami Heat,4–2,Dallas Mavericks,Miami Heat,False,D. Rose,1.91,6.266404,Guard,Chicago Bulls,US,Not reached Final,D.,ose
-62,2012,Oklahoma City Thunder,Miami Heat,1–4,Miami Heat,Oklahoma City Thunder,False,L. James,2.03,6.660105,Forward,Miami Heat,US,Champion,L.,ames
-63,2013,San Antonio Spurs,Miami Heat,3–4,Miami Heat,San Antonio Spurs,False,L. James,2.03,6.660105,Forward,Miami Heat,US,Champion,L.,ames
-64,2014,San Antonio Spurs,Miami Heat,4–1,San Antonio Spurs,Miami Heat,False,K. Durant,2.06,6.75853,Forward,Oklahoma City Thunder,US,Not reached Final,K.,urant
-65,2015,Golden State Warriors,Cleveland Cavaliers,4–2,Golden State Warriors,Cleveland Cavaliers,False,S. Curry,1.91,6.266404,Guard,Golden State Warriors,US,Champion,S.,urry
-66,2016,Golden State Warriors,Cleveland Cavaliers,4–3,Cleveland Cavaliers,Golden State Warriors,False,S. Curry,1.91,6.266404,Guard,Golden State Warriors,US,Vice-Champion,S.,urry
-67,2017,Golden State Warriors,Cleveland Cavaliers,4-2,Golden State Warriors,Cleveland Cavaliers,False,R. Westbrook,1.91,6.266404,Guard,Oklahoma City Thunder,US,Not reached Final,R.,estbrook
-68,2018,Golden State Warriors,Cleveland Cavaliers,4-0,Golden State Warriors,Cleveland Cavaliers,True,J. Harden,1.96,6.5,Guard,Houston Rockets,US,Not reached Final,J.,arden
+30,1980,Los Angeles Lakers,Philadelphia 76ers,4–2,Los Angeles Lakers,Philadelphia 76ers,False,K. Abdul-Jabbar,2.18,7.152231,Center,Los Angeles Lakers,US,Champion,K.,Abdul-Jabbar
+31,1981,Houston Rockets,Boston Celtics,2–4,Boston Celtics,Houston Rockets,False,J. Erving,2.01,6.594488,Forward,Philadelphia 76ers,US,Not reached Final,J.,Erving
+32,1982,Los Angeles Lakers,Philadelphia 76ers,4–2,Los Angeles Lakers,Philadelphia 76ers,False,M. Malone,2.08,6.824147,Center,Houston Rockets,US,Not reached Final,M.,Malone
+33,1983,Los Angeles Lakers,Philadelphia 76ers,0–4,Philadelphia 76ers,Los Angeles Lakers,True,M. Malone,2.08,6.824147,Center,Philadelphia 76ers,US,Champion,M.,Malone
+34,1984,Los Angeles Lakers,Boston Celtics,3–4,Boston Celtics,Los Angeles Lakers,False,L. Bird,2.06,6.75853,Forward,Boston Celtics,US,Champion,L.,Bird
+35,1985,Los Angeles Lakers,Boston Celtics,4–2,Los Angeles Lakers,Boston Celtics,False,L. Bird,2.06,6.75853,Forward,Boston Celtics,US,Vice-Champion,L.,Bird
+36,1986,Houston Rockets,Boston Celtics,2–4,Boston Celtics,Houston Rockets,False,L. Bird,2.06,6.75853,Forward,Boston Celtics,US,Champion,L.,Bird
+37,1987,Los Angeles Lakers,Boston Celtics,4–2,Los Angeles Lakers,Boston Celtics,False,M. Johnson,2.06,6.75853,Guard,Los Angeles Lakers,US,Champion,M.,Johnson
+38,1988,Los Angeles Lakers,Detroit Pistons,4–3,Los Angeles Lakers,Detroit Pistons,False,M. Jordan,1.98,6.496063,Guard,Chicago Bulls,US,Not reached Final,M.,Jordan
+39,1989,Los Angeles Lakers,Detroit Pistons,0–4,Detroit Pistons,Los Angeles Lakers,True,M. Johnson,2.06,6.75853,Guard,Los Angeles Lakers,US,Vice-Champion,M.,Johnson
+40,1990,Portland Trail Blazers,Detroit Pistons,1–4,Detroit Pistons,Portland Trail Blazers,False,M. Johnson,2.06,6.75853,Guard,Los Angeles Lakers,US,Not reached Final,M.,Johnson
+41,1991,Los Angeles Lakers,Chicago Bulls,1–4,Chicago Bulls,Los Angeles Lakers,False,M. Jordan,1.98,6.496063,Guard,Chicago Bulls,US,Champion,M.,Jordan
+42,1992,Portland Trail Blazers,Chicago Bulls,2–4,Chicago Bulls,Portland Trail Blazers,False,M. Jordan,1.98,6.496063,Guard,Chicago Bulls,US,Champion,M.,Jordan
+43,1993,Phoenix Suns,Chicago Bulls,2–4,Chicago Bulls,Phoenix Suns,False,C. Barkley,1.98,6.496063,Forward,Phoenix Suns,US,Vice-Champion,C.,Barkley
+44,1994,Houston Rockets,New York Knicks,4–3,Houston Rockets,New York Knicks,False,H. Olajuwon,2.13,6.988189,Center,Houston Rockets,Nigeria,Champion,H.,Olajuwon
+45,1995,Houston Rockets,Orlando Magic,4–0,Houston Rockets,Orlando Magic,True,D. Robinson,2.16,7.086614,Center,San Antonio Spurs,US,Not reached Final,D.,Robinson
+46,1996,Seattle SuperSonics,Chicago Bulls,2–4,Chicago Bulls,Seattle SuperSonics,False,M. Jordan,1.98,6.496063,Guard,Chicago Bulls,US,Champion,M.,Jordan
+47,1997,Utah Jazz,Chicago Bulls,2–4,Chicago Bulls,Utah Jazz,False,K. Malone,2.06,6.75853,Forward,Utah Jazz,US,Vice-Champion,K.,Malone
+48,1998,Utah Jazz,Chicago Bulls,2–4,Chicago Bulls,Utah Jazz,False,M. Jordan,1.98,6.496063,Guard,Chicago Bulls,US,Champion,M.,Jordan
+49,1999,San Antonio Spurs,New York Knicks,4–1,San Antonio Spurs,New York Knicks,False,K. Malone,2.06,6.75853,Forward,Utah Jazz,US,Not reached Final,K.,Malone
+50,2000,Los Angeles Lakers,Indiana Pacers,4–2,Los Angeles Lakers,Indiana Pacers,False,S. O'Neal,2.16,7.086614,Center,Los Angeles Lakers,US,Champion,S.,O'Neal
+51,2001,Los Angeles Lakers,Philadelphia 76ers,4–1,Los Angeles Lakers,Philadelphia 76ers,False,A. Iverson,1.83,6.003937,Guard,Philadelphia 76ers,US,Vice-Champion,A.,Iverson
+52,2002,Los Angeles Lakers,New Jersey Nets,4–0,Los Angeles Lakers,New Jersey Nets,True,T. Duncan,2.11,6.922572,Forward,San Antonio Spurs,US,Not reached Final,T.,Duncan
+53,2003,San Antonio Spurs,New Jersey Nets,4–2,San Antonio Spurs,New Jersey Nets,False,T. Duncan,2.11,6.922572,Forward,San Antonio Spurs,US,Champion,T.,Duncan
+54,2004,Los Angeles Lakers,Detroit Pistons,1–4,Detroit Pistons,Los Angeles Lakers,False,K. Garnett,2.11,6.922572,Forward,Minnesota Timberwolves,US,Not reached Final,K.,Garnett
+55,2005,San Antonio Spurs,Detroit Pistons,4–3,San Antonio Spurs,Detroit Pistons,False,S. Nash,1.91,6.266404,Guard,Phoenix Suns,Canada,Not reached Final,S.,Nash
+56,2006,Dallas Mavericks,Miami Heat,2–4,Miami Heat,Dallas Mavericks,False,S. Nash,1.91,6.266404,Guard,Phoenix Suns,Canada,Not reached Final,S.,Nash
+57,2007,San Antonio Spurs,Cleveland Cavaliers,4–0,San Antonio Spurs,Cleveland Cavaliers,True,D. Nowitzki,2.13,6.988189,Forward,Dallas Mavericks,Germany,Not reached Final,D.,Nowitzki
+58,2008,Los Angeles Lakers,Boston Celtics,2–4,Boston Celtics,Los Angeles Lakers,False,K. Bryant,1.98,6.496063,Guard,Los Angeles Lakers,US,Vice-Champion,K.,Bryant
+59,2009,Los Angeles Lakers,Orlando Magic,4–1,Los Angeles Lakers,Orlando Magic,False,L. James,2.03,6.660105,Forward,Cleveland Cavaliers,US,Not reached Final,L.,James
+60,2010,Los Angeles Lakers,Boston Celtics,4–3,Los Angeles Lakers,Boston Celtics,False,L. James,2.03,6.660105,Forward,Cleveland Cavaliers,US,Not reached Final,L.,James
+61,2011,Dallas Mavericks,Miami Heat,4–2,Dallas Mavericks,Miami Heat,False,D. Rose,1.91,6.266404,Guard,Chicago Bulls,US,Not reached Final,D.,Rose
+62,2012,Oklahoma City Thunder,Miami Heat,1–4,Miami Heat,Oklahoma City Thunder,False,L. James,2.03,6.660105,Forward,Miami Heat,US,Champion,L.,James
+63,2013,San Antonio Spurs,Miami Heat,3–4,Miami Heat,San Antonio Spurs,False,L. James,2.03,6.660105,Forward,Miami Heat,US,Champion,L.,James
+64,2014,San Antonio Spurs,Miami Heat,4–1,San Antonio Spurs,Miami Heat,False,K. Durant,2.06,6.75853,Forward,Oklahoma City Thunder,US,Not reached Final,K.,Durant
+65,2015,Golden State Warriors,Cleveland Cavaliers,4–2,Golden State Warriors,Cleveland Cavaliers,False,S. Curry,1.91,6.266404,Guard,Golden State Warriors,US,Champion,S.,Curry
+66,2016,Golden State Warriors,Cleveland Cavaliers,4–3,Cleveland Cavaliers,Golden State Warriors,False,S. Curry,1.91,6.266404,Guard,Golden State Warriors,US,Vice-Champion,S.,Curry
+67,2017,Golden State Warriors,Cleveland Cavaliers,4-2,Golden State Warriors,Cleveland Cavaliers,False,R. Westbrook,1.91,6.266404,Guard,Oklahoma City Thunder,US,Not reached Final,R.,Westbrook
+68,2018,Golden State Warriors,Cleveland Cavaliers,4-0,Golden State Warriors,Cleveland Cavaliers,True,J. Harden,1.96,6.5,Guard,Houston Rockets,US,Not reached Final,J.,Harden
