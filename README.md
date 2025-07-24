@@ -82,6 +82,11 @@ Files 05-07 are visualisations in matplotlib, seaborn and plotly.
 The PowerBI file is in the PowerBI folder in /data/outputs/PowerBI
 nba-visuals.pbix
 
+# Note one PowerBI:
+
+Read the "powerbi_readme.md" file in the PowerBI folder if any issues viewing the visualiations are experienced.
+
+
 # Ethical considerations:
 
 Due to the public nature of professional sports, this data is freely and widely consumed and did not require anonymisation of player names. 
