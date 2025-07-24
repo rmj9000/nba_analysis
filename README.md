@@ -12,7 +12,7 @@ This may also be found to be useful for those that play Fantasy League games whe
 
 ## Hypotheses:
 
-Look at historical data
+Look at historical data to determine the usual indicators to predict the MVP for the regular season
 
 * Determine a model that indicates which player will be voted MVP. Be aware that there is something called "voter fatigue" where one player who has won the award multiple times may be overlooked for another player, even though they were deserving of that award. We will look at this and when this may have occurred. One famous non-MVP award is of the Rookie of the Year Award when Lebron James won it in his first year but Carmelo Anthony had the better statistics.
 
@@ -20,11 +20,11 @@ We will build a model that estimates MVP likelihood based on historical performa
 
 Key Inputs:
 
--PER (Player Efficiency Rating)
--WS (Win Shares)
--TS% (True Shooting Percentage)
--USG% (Usage Rate)
--BPM (Box Plus/Minus)
+* PER (Player Efficiency Rating)
+* WS (Win Shares)
+* TS% (True Shooting Percentage)
+* USG% (Usage Rate)
+* BPM (Box Plus/Minus)
 
 A simple weighted scoring formula where each stat has a coefficient based on historical MVP correlations. Later, we could explore regression or even decision trees.
 
